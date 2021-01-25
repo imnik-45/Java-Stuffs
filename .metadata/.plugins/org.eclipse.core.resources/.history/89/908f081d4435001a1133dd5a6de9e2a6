@@ -1,0 +1,29 @@
+package a;
+import java.util.*;
+
+interface i1
+{
+	public void display();
+}
+interface i2 extends i1
+{
+
+}
+interface i3 extends i2
+{
+	
+}
+interface i4 extends i3
+{
+	
+}
+public class q implements i4 {
+	public static void main(String a[])
+	{
+public void display()
+{
+	System.out.println("multiple inheritance");
+}
+
+}
+}

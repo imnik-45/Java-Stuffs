@@ -1,0 +1,52 @@
+{
+  "C:\\Program Files (x86)\\Java\\jre1.8.0_211\\lib\\rt.jar": {
+    "location": "C:\\Program Files (x86)\\Java\\jre1.8.0_211\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): Error transferring file, server returned status code 307"
+  },
+  "F:\\Globsyn Java\\MyJava\\src": {
+    "location": "F:\\Globsyn Java\\MyJava\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\MyJava\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\Arrays\\src": {
+    "location": "F:\\Globsyn Java\\Arrays\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\Arrays\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\EmpDemo\\src": {
+    "location": "F:\\Globsyn Java\\EmpDemo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\EmpDemo\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\StringExamples\\src": {
+    "location": "F:\\Globsyn Java\\StringExamples\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\StringExamples\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\Inheritence\\src": {
+    "location": "F:\\Globsyn Java\\Inheritence\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\Inheritence\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\GetSetConcept\\src": {
+    "location": "F:\\Globsyn Java\\GetSetConcept\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\GetSetConcept\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\PackageDemo\\src": {
+    "location": "F:\\Globsyn Java\\PackageDemo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\PackageDemo\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\DateTime\\src": {
+    "location": "F:\\Globsyn Java\\DateTime\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\DateTime\\src\u0027. Skipped."
+  },
+  "F:\\Globsyn Java\\Interface_Demo\\src": {
+    "location": "F:\\Globsyn Java\\Interface_Demo\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Globsyn Java\\Interface_Demo\\src\u0027. Skipped."
+  }
+}
